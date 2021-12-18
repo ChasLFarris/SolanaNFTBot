@@ -1,0 +1,1 @@
+worker: node nodemon.json
